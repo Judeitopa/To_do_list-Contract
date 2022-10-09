@@ -1,0 +1,7 @@
+migrations
+build
+node_modules
+tests
+.secret
+package-lock.json
+package.json
